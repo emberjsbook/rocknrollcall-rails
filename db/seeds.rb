@@ -5,3 +5,19 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Activity.create(
+ :display_id => 'Activity1',
+ :searchresults_type => 'song',
+ :display_name => "On the Road Again",
+ :timestamp => "Fri Dec 06 2013 01:05:53 GMT-0600 (CST)",
+ :hotttnesss => 54
+)
+
+Activity.create(
+ :display_id => 'Activity2',
+ :searchresults_type => 'artist',
+ :display_name => "Willie Nelson",
+ :timestamp => "Fri Dec 06 2013 01:05:53 GMT-0600 (CST)",
+ :hotttnesss => 99
+)
