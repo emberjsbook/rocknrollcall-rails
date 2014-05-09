@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  display_id: MyString
+  searchresults_type: MyString
+  display_name: MyString
+  timestamp: 2014-05-08 23:27:36
+  hotttnesss: 
+
+two:
+  display_id: MyString
+  searchresults_type: MyString
+  display_name: MyString
+  timestamp: 2014-05-08 23:27:36
+  hotttnesss: 
